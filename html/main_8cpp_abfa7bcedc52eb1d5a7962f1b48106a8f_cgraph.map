@@ -1,0 +1,4 @@
+<map id="FindPath" name="FindPath">
+<area shape="rect" id="node2" href="$main_8cpp.html#a734b1bfb254bab90c57be17884330ca5" title="Function checks if the coordinates are going out of the maze. " alt="" coords="128,5,239,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a1059bb370270210727b6204f31a5f0df" title="Function checks if the goal coordinate has reached or not. " alt="" coords="153,56,213,83"/>
+</map>
